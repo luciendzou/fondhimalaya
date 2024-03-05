@@ -46,8 +46,8 @@
             <div class="collapse navbar-collapse" id="ftco-nav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active"><a href="/" class="nav-link">Accueil</a></li>
-                    <li class="nav-item"><a href="event.html" class="nav-link">Nos Evènements</a></li>
-                    <li class="nav-item"><a href="blog.html" class="nav-link">Actualités</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Nos Evènements</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Actualités</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink"
                             role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -61,7 +61,7 @@
                             <li><a class="dropdown-item" href="#">Nos Donateurs</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
                 </ul>
             </div>
         </div>

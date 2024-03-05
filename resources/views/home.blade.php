@@ -241,42 +241,36 @@
                         </div>
                         <h3 class="heading mt-3"><a href="#">SPECIALE  COLECTE DE DONS DE VÊTEMENTS
                             POUR LES ORPHELINS DE LA RÉGION DE L'EST</a></h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary
-                            regelialia.</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 d-flex ftco-animate">
                 <div class="blog-entry align-self-stretch">
                     <a href="blog-single.html" class="block-20"
-                        style="background-image: url('images/image_2.jpg');">
+                        style="background-image: url('https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/398839363_205816832545264_3061394572295286749_n.jpg?stp=dst-jpg_s600x600&_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEHNk_cL8Wj2KjL93I6n5dbyQhzdEeTdILJCHN0R5N0ggjBPcDMCZJbv7yBritAm460X2fHatJZXHWElTuFJJHK&_nc_ohc=zM1C4aTkjAUAX9u80Ao&_nc_ht=scontent-lhr6-2.xx&oh=00_AfA3y6kTH1OvTVbjU_vAfIcBQ8d2r8UBwt6ef1ggVgziCw&oe=65EC17CF');">
                     </a>
                     <div class="text p-4 d-block">
                         <div class="meta mb-3">
-                            <div><a href="#">Sept 10, 2018</a></div>
-                            <div><a href="#">Admin</a></div>
-                            <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
+                            <div><a href="#">Nov 02, 2023</a></div>
                         </div>
-                        <h3 class="heading mt-3"><a href="#">Hurricane Irma has devastated Florida</a></h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary
-                            regelialia.</p>
+                        <h3 class="heading mt-3"><a href="#">𝙅𝙤𝙪𝙧𝙣𝙚́𝙚 𝙘𝙤𝙢𝙢𝙚́𝙢𝙤𝙧𝙖𝙩𝙞𝙫𝙚 des 𝘿𝙚́𝙛𝙪𝙣𝙩𝙨
+                            avec les veuves de la ville de 𝙔𝙖𝙤𝙪𝙣𝙙𝙚́</a></h3>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 d-flex ftco-animate">
                 <div class="blog-entry align-self-stretch">
                     <a href="blog-single.html" class="block-20"
-                        style="background-image: url('images/image_3.jpg');">
+                        style="background-image: url('https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/378694291_174311265695821_3424604077725822160_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeHp5XZEgpVORl1gzSuhvEAZfC2F3471M318LYXfjvUzfYJ_vWtLbue5ZhW_MPSzxtz4M7cvSIjQTHr5ADvPTkhg&_nc_ohc=hME81DQFWIQAX_6wWqI&_nc_ht=scontent-lhr6-2.xx&oh=00_AfD_Vu_qustAvgSELOzSRdAmjttrUkMBMqZ7AcLHpJUoEQ&oe=65EC2A03');">
                     </a>
                     <div class="text p-4 d-block">
                         <div class="meta mb-3">
-                            <div><a href="#">Sept 10, 2018</a></div>
+                            <div><a href="#">Sept 13, 2023</a></div>
                             <div><a href="#">Admin</a></div>
                             <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                         </div>
-                        <h3 class="heading mt-3"><a href="#">Hurricane Irma has devastated Florida</a></h3>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary
-                            regelialia.</p>
+                        <h3 class="heading mt-3"><a href="#">Visite ᴅᴇ ʟ’ᴏʀᴘʜᴇʟɪɴᴀᴛ Bon ʙᴇʀɢᴇ́
+                            Nkoabang </a></h3>
                     </div>
                 </div>
             </div>
@@ -284,7 +278,7 @@
     </div>
 </section>
 
-<section class="ftco-section bg-light">
+{{-- <section class="ftco-section bg-light">
     <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
             <div class="col-md-7 heading-section ftco-animate text-center">
@@ -357,17 +351,17 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
-<section class="ftco-section-3 img" style="background-image: url(images/bg_3.jpg);">
+<section class="ftco-section-3 img" style="background-image: url({{asset('images/gallery/img-6.jpg')}});">
     <div class="overlay"></div>
     <div class="container">
         <div class="row d-md-flex">
             <div class="col-md-6 d-flex ftco-animate">
-                <div class="img img-2 align-self-stretch" style="background-image: url(images/bg_4.jpg);"></div>
+                <div class="img img-2 align-self-stretch" style="background-image: url(https://img.freepik.com/vecteurs-libre/volontaires-collectent-marchandises-pour-charite-dans-enorme-boite-dons-donnent-pieces-monnaie-dans-pot-don-fonds-dons-charite-concept-don-nature-illustration-isolee-bleu-corail-rose_335657-1387.jpg);"></div>
             </div>
             <div class="col-md-6 volunteer pl-md-5 ftco-animate">
-                <h3 class="mb-3">Be a volunteer</h3>
+                <h3 class="mb-3">Faire un don</h3>
                 <form action="#" class="volunter-form">
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Your Name">
