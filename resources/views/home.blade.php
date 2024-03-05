@@ -232,7 +232,7 @@
         <div class="row d-flex">
             <div class="col-md-4 d-flex ftco-animate">
                 <div class="blog-entry align-self-stretch">
-                    <a href="blog-single.html" class="block-20"
+                    <a href="https://www.facebook.com/photo/?fbid=262624460197834&set=a.118475144612767&__cft__[0]=AZU-6vJni96nI73ksYtT_878cmI_EOkNFdpjXhzTGIvCOUGJQdMoLsYRV9TOETWBLNQgPBIBMZYy_7X3zgDekS7TWCptG91pzbFOtigk1yO6nUY5lr_7Lq_EwtVbmSZk3gdiq9NprM5nz6EEn47vKfFmu1ZUOLVGwe7ZnIvOcgQN6YvNlYvHr_SUCIa8WuZjL6g&__tn__=EH-R" class="block-20"
                         style="background-image: url('https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/425000476_262624456864501_3443625227739286344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeHjJaD7D3Ku5JjmYsfMZISUmvScSk5ZNK-a9JxKTlk0ryNoilSre72QIO2I4e8JvE0AAXjUXNUBHCuk5eMqWDN5&_nc_ohc=AXr0vif1UwMAX-Euwgy&_nc_ht=scontent-lhr8-1.xx&oh=00_AfBscffFvBa2fFO-1Emq0pkGie25pI6RtxudGAjV6MotYw&oe=65EC655F');">
                     </a>
                     <div class="text p-4 d-block">
@@ -246,15 +246,15 @@
             </div>
             <div class="col-md-4 d-flex ftco-animate">
                 <div class="blog-entry align-self-stretch">
-                    <a href="blog-single.html" class="block-20"
+                    <a href="https://www.facebook.com/photo/?fbid=205816835878597&set=a.118475144612767&__cft__[0]=AZXe6Spv-y0XTi5cDhZtNmzF3zlOWuHHp4OUKQEsiWO4OsLNTr1H6dmTiqsKuwBoWf1BYX1EK7ZfwUly8TPXSKjmSWElXTGOX4Csedeo7rdRh0jmpFRufQ2sO3oox6hDVM1pG6I8z9aW4vFnxsjyPYmXMEqhwpe7Vue-8thSS1HiCGX0RGxjt9agC1KiIs53Ges&__tn__=EH-R" class="block-20"
                         style="background-image: url('https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/398839363_205816832545264_3061394572295286749_n.jpg?stp=dst-jpg_s600x600&_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEHNk_cL8Wj2KjL93I6n5dbyQhzdEeTdILJCHN0R5N0ggjBPcDMCZJbv7yBritAm460X2fHatJZXHWElTuFJJHK&_nc_ohc=zM1C4aTkjAUAX9u80Ao&_nc_ht=scontent-lhr6-2.xx&oh=00_AfA3y6kTH1OvTVbjU_vAfIcBQ8d2r8UBwt6ef1ggVgziCw&oe=65EC17CF');">
                     </a>
                     <div class="text p-4 d-block">
                         <div class="meta mb-3">
                             <div><a href="#">Nov 02, 2023</a></div>
                         </div>
-                        <h3 class="heading mt-3"><a href="#">𝙅𝙤𝙪𝙧𝙣𝙚́𝙚 𝙘𝙤𝙢𝙢𝙚́𝙢𝙤𝙧𝙖𝙩𝙞𝙫𝙚 des 𝘿𝙚́𝙛𝙪𝙣𝙩𝙨
-                            avec les veuves de la ville de 𝙔𝙖𝙤𝙪𝙣𝙙𝙚́</a></h3>
+                        <h3 class="heading mt-3"><a href="#">Journée commomérative des Défunts
+                            avec les veuves de la ville de Yaoundé</a></h3>
                     </div>
                 </div>
             </div>
@@ -269,7 +269,7 @@
                             <div><a href="#">Admin</a></div>
                             <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                         </div>
-                        <h3 class="heading mt-3"><a href="#">Visite ᴅᴇ ʟ’ᴏʀᴘʜᴇʟɪɴᴀᴛ Bon ʙᴇʀɢᴇ́
+                        <h3 class="heading mt-3"><a href="#">Visite de L'orphélinat Bon Bergé de
                             Nkoabang </a></h3>
                     </div>
                 </div>

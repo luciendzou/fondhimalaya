@@ -95,26 +95,26 @@
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2">Recentes Actualités</h2>
                         <div class="block-21 mb-4 d-flex">
-                            <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
+                            <a href="https://www.facebook.com/photo/?fbid=262624460197834&set=a.118475144612767&__cft__[0]=AZU-6vJni96nI73ksYtT_878cmI_EOkNFdpjXhzTGIvCOUGJQdMoLsYRV9TOETWBLNQgPBIBMZYy_7X3zgDekS7TWCptG91pzbFOtigk1yO6nUY5lr_7Lq_EwtVbmSZk3gdiq9NprM5nz6EEn47vKfFmu1ZUOLVGwe7ZnIvOcgQN6YvNlYvHr_SUCIa8WuZjL6g&__tn__=EH-R"
+                                class="blog-img mr-4"
+                                style="background-image: url(https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/425000476_262624456864501_3443625227739286344_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeHjJaD7D3Ku5JjmYsfMZISUmvScSk5ZNK-a9JxKTlk0ryNoilSre72QIO2I4e8JvE0AAXjUXNUBHCuk5eMqWDN5&_nc_ohc=AXr0vif1UwMAX-Euwgy&_nc_ht=scontent-lhr8-1.xx&oh=00_AfBscffFvBa2fFO-1Emq0pkGie25pI6RtxudGAjV6MotYw&oe=65EC655F);"></a>
                             <div class="text">
-                                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control
-                                        about</a></h3>
+                                <h3 class="heading"><a href="#">SPECIALE COLECTE DE DONS DE VÊTEMENTS
+                                        POUR LES ORPHELINS DE LA RÉGION DE L'ESTt</a></h3>
                                 <div class="meta">
-                                    <div><a href="#"><span class="icon-calendar"></span> July 12, 2018</a></div>
-                                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                                    <div><a href="#"><span class="icon-calendar"></span> Fev 10-17, 2024</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div class="block-21 mb-4 d-flex">
-                            <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
+                            <a href="https://www.facebook.com/photo/?fbid=205816835878597&set=a.118475144612767&__cft__[0]=AZXe6Spv-y0XTi5cDhZtNmzF3zlOWuHHp4OUKQEsiWO4OsLNTr1H6dmTiqsKuwBoWf1BYX1EK7ZfwUly8TPXSKjmSWElXTGOX4Csedeo7rdRh0jmpFRufQ2sO3oox6hDVM1pG6I8z9aW4vFnxsjyPYmXMEqhwpe7Vue-8thSS1HiCGX0RGxjt9agC1KiIs53Ges&__tn__=EH-R" class="blog-img mr-4"
+                                style="background-image: url('https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/398839363_205816832545264_3061394572295286749_n.jpg?stp=dst-jpg_s600x600&_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_eui2=AeEHNk_cL8Wj2KjL93I6n5dbyQhzdEeTdILJCHN0R5N0ggjBPcDMCZJbv7yBritAm460X2fHatJZXHWElTuFJJHK&_nc_ohc=zM1C4aTkjAUAX9u80Ao&_nc_ht=scontent-lhr6-2.xx&oh=00_AfA3y6kTH1OvTVbjU_vAfIcBQ8d2r8UBwt6ef1ggVgziCw&oe=65EC17CF');"></a>
                             <div class="text">
-                                <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control
-                                        about</a></h3>
+                                <h3 class="heading"><a href="#">Journée commomérative des Défunts
+                                        avec les veuves de la ville de Yaoundé</a></h3>
                                 <div class="meta">
-                                    <div><a href="#"><span class="icon-calendar"></span> July 12, 2018</a></div>
-                                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                                    <div><a href="#"><span class="icon-calendar"></span> Nov 02, 2023</a></div>
                                 </div>
                             </div>
                         </div>
@@ -129,7 +129,6 @@
                             <li><a href="#" class="py-2 d-block">Nos Causes</a></li>
                             <li><a href="#" class="py-2 d-block">Actualités</a></li>
                             <li><a href="#" class="py-2 d-block">Nos Evènements</a></li>
-                            <li><a href="#" class="py-2 d-block">Blog</a></li>
                         </ul>
                     </div>
                 </div>
